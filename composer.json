@@ -1,0 +1,17 @@
+{
+    "name": "xiezhengtao/test",
+    "require": {
+        "monolog/monolog": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jent",
+            "email": "xiezt666@163.com"
+        }
+    ]
+}
