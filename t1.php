@@ -11,5 +11,5 @@ $http->on('request', function ($request, $response) {
     $response->end("Hello, World!\n");
 });
 
-// 启动服务器1111111111
+// 启动服务器
 $http->start();
