@@ -1,7 +1,8 @@
 {
     "name": "xiezhengtao/test",
     "require": {
-        "monolog/monolog": "^3.5"
+        "monolog/monolog": "^3.5",
+        "catfan/medoo": "^2.1"
     },
     "autoload": {
         "psr-4": {
